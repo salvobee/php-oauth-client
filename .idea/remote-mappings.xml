@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="php@53780821-08e1-446d-9062-e052b04a5162">
+          <settings>
+            <list>
+              <mapping local-root="/opt/project" remote-root="//wsl$/Ubuntu-20.04/home/salvobee/apps/blabs/oauth-client" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
